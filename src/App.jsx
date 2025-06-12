@@ -7,6 +7,8 @@ import './App.css'
 // import Sum from './components/Sum'
 // import Adding from './components/Sum'
 import First from './components/Todo'
+// import First from './components/Weather'
+// import Data from './components/Weather'
 
 function App() {
 
@@ -17,7 +19,7 @@ function App() {
   return (
     <> 
     {/* <Adding/> */}
- 
+ {/* <Data/> */}
     <First/>
     </>
   )
