@@ -1,0 +1,21 @@
+.input{
+    height: 50%;
+    width: 60%;
+    padding: 10px;
+    border-radius: 9px;
+    border: solid black;
+    margin-bottom: 10px;
+}
+
+.btn-btn{
+    background-color:  #43c8e9;
+    color: #fff;   
+}
+.btn-btn:hover{
+    background-color: #77dd77;
+}
+.weather_div{
+    font-size: medium;
+    font-weight: 700;
+    
+}
